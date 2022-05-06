@@ -1,0 +1,10 @@
+.navbar-brand {
+    background-color: #00796B;
+    box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
+}
+
+#site-navigation h1.site-logo {
+    margin-top: 0.25rem;
+    color: #ffffff;
+    padding: 1rem 0 1rem 0;
+}
