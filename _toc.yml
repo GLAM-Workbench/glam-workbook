@@ -6,4 +6,9 @@ root: intro
 parts:
   - caption: About
     chapters:
+      - file: about-the-workbook
       - file: using-the-workbook
+      - file: other-useful-resources
+  - caption: Coming soon
+    chapters:
+      - file: proposed-topics
